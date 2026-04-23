@@ -1,55 +1,70 @@
 <h1 align="center">Hi there 👋, I'm Murad!</h1>
 
-### About Me
+<p align="center">
+  <strong>Full-Stack Software Developer | Specialized in Scalable Web Architectures & Distributed Systems</strong>
+</p>
 
-I'm a passionate and results-driven **Software Developer** with a solid foundation in the **MERN stack** and a strong interest in building scalable web applications. My expertise lies in crafting clean, efficient, and maintainable code to solve complex problems and deliver exceptional user experiences.
+### 🚀 About Me
 
-I enjoy collaborating with cross-functional teams to bring ideas to life and am always eager to learn and adapt to new technologies. I'm actively seeking new challenges and opportunities to contribute to innovative projects.
+I am a results-driven **Full-Stack Software Developer** with **over 4 years of professional experience** in building and maintaining remote-first web applications. While my roots are in the **MERN stack**, I have evolved my expertise toward **Next.js, TypeScript, and modern backend architectures** to solve complex enterprise-level problems.
+
+I am passionate about clean code, software architecture, and the intersection of AI and development. Currently, I am focused on mastering distributed systems and building high-performance applications using **PostgreSQL, Prisma, and .NET 8**.
 
 ---
 
-### My Skills
+### 🛠️ My Tech Stack
 
+**Frontend**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+**Backend & Database**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+**Other Tools**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
 ---
 
-### Featured Projects
+### 📂 Featured Projects
 
-Here are a few projects I've worked on. You can find more in my repositories.
+#### **Distributed POS Management System**
+* **Overview:** A high-availability system designed for multi-branch sales operations. It allows seamless inventory browsing and cross-branch transactions.
+* **Tech Stack:** .NET 8 Web API, C#, SQL Server.
+* **Key Feature:** Implemented complex logic for inter-branch inventory synchronization and real-time reporting.
 
-#### **Lazz Pharma POS (Point of Sale)**
-* A comprehensive web application for managing sales, inventory, and billing.
-* **Technologies:** **MERN Stack** (React, Node.js, Express.js, MongoDB)
+#### **Prompt Market (SaaS Platform)**
+* **Overview:** A full-stack service marketplace for AI prompts featuring three distinct user roles (Admin, Seller, Buyer).
+* **Tech Stack:** Next.js, TypeScript, PostgreSQL, Prisma.
+* **Key Feature:** Role-based access control (RBAC) and a custom-built secure payment/delivery flow for digital assets.
 
-#### **Taj Kitchen (Restaurant Website)**
-* A responsive and user-friendly website for a restaurant, featuring online ordering and menu display.
-* **Technologies:** **HTML, CSS, JavaScript**
-* [**Live Demo**](https://tajtech-pos.netlify.app/)
+#### **Lazz Pharma POS**
+* **Overview:** A comprehensive MERN-based application for managing pharmaceutical sales, inventory, and automated billing.
+* **Tech Stack:** React, Node.js, Express.js, MongoDB.
 
-#### **Task ToDo**
-* Full Stack app using React frontend and Node.js/Express backend with user authentication and
-authorization using JWT.
-* Role base different dashboard and access control for User and Admin.
-* **Technologies:** **MERN Stack** (React, Node.js, Express.js, MongoDB)
-* [**Live Demo**](https://task-manager-mh.vercel.app/)
+#### **2D Mobile "Donut" Game**
+* **Overview:** A local multiplayer puzzle game developed for mobile platforms.
+* **Tech Stack:** Unity, C#.
+* **Key Feature:** Implemented math-based puzzle mechanics and real-time local multiplayer synchronization.
 
 ---
 
-### Connect with Me
+### 📫 Connect with Me
 
 <p align="left">
   <a href="mailto:murad.pi22@gmail.com">
@@ -59,3 +74,6 @@ authorization using JWT.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+<p align="center"><em>"Turning complex problems into elegant, functional code."</em></p>
