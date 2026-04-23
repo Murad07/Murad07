@@ -51,7 +51,7 @@ I thrive on solving complex technical challenges, implementing robust authentica
 #### **SkillBridge (Learning Management Platform)**
 * **Overview:** A comprehensive backend-focused project with advanced authentication and role management for Students, Tutors, and Admins.
 * **Tech Stack:** Better-Auth, PostgreSQL, Prisma, Node.js.
-* [**Live Demo**](https://skillbridge-demo-link.vercel.app) *(Update this link if needed)*
+* [**Live Demo**](https://assign-4-l2b6-sb-frontend.vercel.app/)
 
 #### **Task ToDo (Task Management App)**
 * **Overview:** Full-stack productivity app with secure authentication and custom dashboards.
